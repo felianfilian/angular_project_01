@@ -1,1 +1,3 @@
-console.log("hello world");
+function showText() {
+  let name: String = "mario";
+}
