@@ -1,3 +1,3 @@
 function showText() {
-  let name: String = "mario";
+  console.log("super mario");
 }

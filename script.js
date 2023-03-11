@@ -1,3 +1,3 @@
 function showText() {
-  var name = "mario";
+    console.log("super mario");
 }
