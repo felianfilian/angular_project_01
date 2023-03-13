@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-angular';
-  name = 'darian';
 
   GetHero() {
     alert('Warrior');
